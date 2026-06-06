@@ -10,9 +10,12 @@ Passionate about building intelligent systems through AI, Machine Learning, Comp
 
 ## Tech Stack
 
-C++ • Java • Python • MySQL • React • Git • GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,react,git,github" />
+</p>
 
 ## Connect With Me
 
 LinkedIn: linkedin.com/in/aditthan-j-k-238767324
+
 Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
