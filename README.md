@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Computer+Vision+Enthusiast;Aspiring+ML+Engineer;Building+Intelligent+Solutions" alt="Typing SVG" />
 </p>
 
-Pre-Final Year Computer Science Student specializing in Artificial Intelligence & Machine Learning.
-
-Passionate about building intelligent systems through AI, Machine Learning, Computer Vision, and Data Engineering. I enjoy developing practical solutions that bridge technology, data, and business value.
+Pre-Final Year Computer Science Student specializing in Artificial Intelligence & Machine Learning. Passionate about building intelligent systems through AI, Machine Learning, Computer Vision, and Data Engineering. 
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,react,git,github,vscode" />
 </p>
+
+I enjoy developing practical solutions that bridge technology, data, and business value.
 
 ## Connect With Me
 
