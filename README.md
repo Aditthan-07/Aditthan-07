@@ -1,23 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aditthan 👋
 
-##🎓 BE CSE (AI & ML) Student
+Pre-Final Year Computer Science Student specializing in Artificial Intelligence & Machine Learning.
 
-🤖 Interested in AI, Machine Learning & Computer Vision
+Passionate about building intelligent systems through AI, Machine Learning, Computer Vision, and Data Engineering. I enjoy developing practical solutions that bridge technology, data, and business value.
 
-📊 Aspiring Data Architect
+## Tech Stack
 
-💼 Built for Engineering, Wired for Business
+C++ • Java • Python • MySQL • React • Git • GitHub
 
-🌱 Currently learning and building AI-powered solutions
+## Connect With Me
 
-### 🛠️ Tech Stack
+LinkedIn: linkedin.com/in/aditthan-j-k-238767324
 
-Python • C++ • Java • SQL • OpenCV • Git • GitHub
-
-### 📫 Connect with Me
-
-🔗 LinkedIn: linkedin.com/in/aditthan-j-k-238767324
-
-📧 Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
-
-💻 GitHub: github.com/Aditthan-07
+Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
