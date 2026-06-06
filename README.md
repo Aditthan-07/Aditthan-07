@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Computer+Vision+Enthusiast;Aspiring+ML+Engineer;Building+Intelligent+Solutions" alt="Typing SVG" />
 </p>
 
-Pre-Final Year Computer Science Student specializing in Artificial Intelligence & Machine Learning. Passionate about building intelligent systems through AI, Machine Learning, Computer Vision, and Data Engineering. 
+Pre-Final Year Computer Science Student specializing in Artificial Intelligence & Machine Learning.
+
+Passionate about building intelligent systems through AI, Machine Learning, Computer Vision, and Data Engineering. I enjoy developing practical solutions that bridge technology, data, and business value.
 
 ## Tech Stack
 
@@ -12,10 +14,16 @@ Pre-Final Year Computer Science Student specializing in Artificial Intelligence 
   <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,react,git,github,vscode" />
 </p>
 
-I enjoy developing practical solutions that bridge technology, data, and business value.
+## GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditthan-07&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditthan-07&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ## Connect With Me
 
-LinkedIn: linkedin.com/in/aditthan-j-k-238767324
+* LinkedIn: linkedin.com/in/aditthan-j-k-238767324
+* Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
 
-Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
+> Built for Engineering, Wired for Business.
