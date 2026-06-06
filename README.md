@@ -14,16 +14,10 @@ Passionate about building intelligent systems through AI, Machine Learning, Comp
   <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,react,git,github,vscode" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditthan-07&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditthan-07&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 ## Connect With Me
 
 * LinkedIn: linkedin.com/in/aditthan-j-k-238767324
 * Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
+
 
 > Built for Engineering, Wired for Business.
