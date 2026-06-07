@@ -31,6 +31,7 @@ A fan-centric web platform dedicated to Chennai Super Kings, featuring team hist
 ## Connect With Me
 
 🔗 LinkedIn: https://linkedin.com/in/aditthan-j-k-238767324
+
 📧 Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
 
 ---
