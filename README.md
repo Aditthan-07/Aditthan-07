@@ -14,10 +14,26 @@ Passionate about building intelligent systems through AI, Machine Learning, Comp
   <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,react,git,github,vscode" />
 </p>
 
+## Featured Projects
+
+### 🐍 Slither King
+
+An interactive browser-based Snake Game focused on smooth gameplay and engaging user experience.
+
+🔗 Live Demo: https://aditthan.itch.io/slither-king
+
+### 🦁 CSK Fan Hub
+
+A fan-centric web platform dedicated to Chennai Super Kings, featuring team history, memorable moments, player highlights, and interactive content.
+
+🔗 Live Demo: https://chennai-super-kings-fan-hub.netlify.app/
+
 ## Connect With Me
 
-* LinkedIn: linkedin.com/in/aditthan-j-k-238767324
-* Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/aditthan-j-k-238767324
 
+📧 Email: [aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)
+
+---
 
 > Built for Engineering, Wired for Business.
