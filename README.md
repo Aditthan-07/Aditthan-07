@@ -72,21 +72,13 @@
 
 ---
 
-## 📈 Activity & Contribution Streak
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditthan-07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
-</p>
-
----
-
-## 💡 Engineering Philosophy & Value
-
-<p align="left">
-  <blockquote>
-    <strong>"Bridging the gap between deep mathematical ML modeling and production-grade software engineering — built for precision, performance, and business impact."</strong>
-  </blockquote>
-</p>
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **[📈 Stock Price Forecasting RNN](https://github.com/Aditthan-07/stock-price-forecasting-rnn)** | End-to-end PyTorch sequential deep learning engine with 60-day sliding-window forecasting, strict leakage-free scaling & interactive dashboard. | `PyTorch` `Python` `Pandas` `Streamlit` |
+| **[🤖 Autonomous Agentic AI Framework](https://github.com/Aditthan-07)** | Multi-agent reasoning engine for task orchestration, quantitative modeling, and dynamic tool-calling workflows. | `Python` `FastAPI` `LangChain` |
+| **[👁️ Real-Time Computer Vision Pipeline](https://github.com/Aditthan-07)** | High-throughput deep learning pipeline for real-time feature extraction, spatial tracking, and object classification. | `PyTorch` `OpenCV` `NumPy` |
 
 ---
 
