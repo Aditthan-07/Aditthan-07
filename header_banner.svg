@@ -1,74 +1,70 @@
-<svg width="100%" height="180" viewBox="0 0 850 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="130" viewBox="0 0 900 130" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#080c14" />
       <stop offset="50%" stop-color="#0e172a" />
       <stop offset="100%" stop-color="#172554" />
     </linearGradient>
 
     <!-- Border Gradient -->
-    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.5" />
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.8" />
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.9" />
     </linearGradient>
 
     <!-- Glow Effect -->
-    <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2" />
       <stop offset="100%" stop-color="#000000" stop-opacity="0" />
     </linearGradient>
   </defs>
 
   <style>
-    .title {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    .header-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       font-weight: 800;
-      font-size: 38px;
+      font-size: 34px;
       fill: #f8fafc;
       letter-spacing: -0.5px;
     }
-    .wave {
-      font-size: 34px;
-    }
-    .subtitle {
-      font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    .header-sub {
+      font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace;
       font-weight: 600;
-      font-size: 15px;
+      font-size: 14px;
       fill: #38bdf8;
-      letter-spacing: 0.5px;
+      letter-spacing: 0.4px;
     }
-    .tagline {
+    .header-tag {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       font-weight: 400;
-      font-size: 13px;
+      font-size: 12px;
       fill: #94a3b8;
     }
   </style>
 
   <!-- Container Box with Rounded Corners -->
-  <rect x="2" y="2" width="846" height="176" rx="16" fill="url(#bgGradient)" stroke="url(#borderGradient)" stroke-width="1.5" />
+  <rect x="2" y="2" width="896" height="126" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5" />
 
-  <!-- Background Decorative Glowing Circles -->
-  <circle cx="750" cy="90" r="130" fill="url(#glowGradient)" />
-  <circle cx="780" cy="60" r="80" fill="#38bdf8" fill-opacity="0.05" />
+  <!-- Background Decorative Glowing Accents -->
+  <circle cx="820" cy="65" r="100" fill="url(#glowGrad)" />
 
   <!-- Terminal Window Dots -->
-  <circle cx="35" cy="32" r="5.5" fill="#ef4444" />
-  <circle cx="53" cy="32" r="5.5" fill="#eab308" />
-  <circle cx="71" cy="32" r="5.5" fill="#22c55e" />
+  <circle cx="35" cy="28" r="5" fill="#ef4444" />
+  <circle cx="51" cy="28" r="5" fill="#eab308" />
+  <circle cx="67" cy="28" r="5" fill="#22c55e" />
 
   <!-- Grid Accent Lines -->
-  <path d="M 680 40 L 800 40 M 680 70 L 800 70 M 680 100 L 800 100 M 680 130 L 800 130" stroke="#38bdf8" stroke-opacity="0.08" stroke-width="1.5" />
-  <path d="M 710 20 L 710 150 M 750 20 L 750 150 M 790 20 L 790 150" stroke="#38bdf8" stroke-opacity="0.08" stroke-width="1.5" />
+  <path d="M 760 30 L 860 30 M 760 55 L 860 55 M 760 80 L 860 80 M 760 105 L 860 105" stroke="#38bdf8" stroke-opacity="0.08" stroke-width="1.5" />
+  <path d="M 780 15 L 780 115 M 815 15 L 815 115 M 850 15 L 850 115" stroke="#38bdf8" stroke-opacity="0.08" stroke-width="1.5" />
 
   <!-- Title Text -->
-  <text x="35" y="88" class="title">Hi, I'm Aditthan J K <tspan class="wave">👋</tspan></text>
+  <text x="35" y="68" class="header-title">Hi, I'm Aditthan J K 👋</text>
 
-  <!-- Subtitle with Monospace Tech Look -->
-  <text x="35" y="122" class="subtitle">&gt; AI &amp; ML Student • Deep Learning • Computer Vision</text>
+  <!-- Subtitle -->
+  <text x="35" y="94" class="header-sub">&gt; AI &amp; ML Student • Deep Learning • Computer Vision</text>
 
   <!-- Bottom Tagline -->
-  <text x="35" y="148" class="tagline">Built for Engineering, Wired for Business.</text>
+  <text x="35" y="114" class="header-tag">Built for Engineering, Wired for Business.</text>
 </svg>
