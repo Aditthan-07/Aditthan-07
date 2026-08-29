@@ -2,36 +2,15 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
----
+<!-- Cat Robot Hero Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="240px" alt="Cat Robot" />
+</p>
 
-<!-- Hero Section: Cat Robot + Option 3 Developer CLI Profile -->
-<table> 
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="300px" alt="Cat Robot" />
-    </td>
-    <td width="62%" valign="middle" style="padding-left: 15px;">
-<pre>
-<code>{
-  "developer": "Aditthan J K",
-  "status": "Pre-Final Year Undergrad (AI &amp; ML)",
-  "focus_areas": [
-    "Deep Learning",
-    "Computer Vision",
-    "Time-Series Forecasting"
-  ],
-  "current_endeavors": [
-    "Agentic AI Frameworks",
-    "Quantitative Modeling",
-    "Scalable Data Systems"
-  ],
-  "philosophy": "Built for Engineering, Wired for Business.",
-  "contact": "aditthanjeganathan067@gmail.com"
-}</code>
-</pre>
-    </td>
-  </tr>
-</table>
+<!-- Matching Vector Developer Terminal Card -->
+<p align="center">
+  <img src="about_card.svg" width="100%" alt="Developer Profile" />
+</p>
 
 ---
 
