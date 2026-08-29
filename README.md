@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditthan J K
+# Hi, I'm Aditthan J K 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&width=620&lines=AI+%26+ML+Specialization;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
@@ -10,19 +10,29 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 **Pre-Final Year Undergrad** specializing in **Artificial Intelligence & Machine Learning**.
-- 🔬 Passionate about **Deep Learning**, **Time-Series Forecasting**, **Computer Vision**, and **Data Systems**.
-- 🌱 Currently exploring **Agentic AI**, **Autonomous Multi-Agent Frameworks**, and **Quant Finance Modeling**.
-- 💼 *Philosophy*: **Built for Engineering, Wired for Business.**
-- 📫 Reach me at: **[aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)**
+<table> 
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="240px" alt="Cat Robot" />
+    </td>
+    <td width="65%" valign="top">
+      <h3>About Me</h3>
+      <ul>
+        <li><strong>Education:</strong> Pre-Final Year Undergrad specializing in Artificial Intelligence & Machine Learning.</li>
+        <li><strong>Focus Areas:</strong> Deep Learning, Time-Series Forecasting, Computer Vision, and Scalable Data Systems.</li>
+        <li><strong>Current Endeavors:</strong> Developing Agentic AI frameworks, deep learning architectures, and quantitative models.</li>
+        <li><strong>Core Philosophy:</strong> Built for Engineering, Wired for Business.</li>
+        <li><strong>Contact:</strong> <a href="mailto:aditthanjk06@gmail.com">aditthanjk06@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -34,7 +44,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🧠 AI, Deep Learning & Data Science
+### AI, Deep Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -47,7 +57,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-### 🌐 Web & Backend Development
+### Web & Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -55,13 +65,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### Cloud, DevOps & Developer Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -75,28 +85,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditthan-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Aditthan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditthan-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditthan-07&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</p>
-
----
-
-## ✍️ Dev Inspiration
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/aditthan-j-k-238767324" target="_blank">
