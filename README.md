@@ -2,16 +2,11 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
-<!-- Cyber Duo: Larger Cat Robot First, Smaller Partner Next -->
+<!-- Hero Section: Big Cat Robot on Left + Developer JSON Terminal on Right -->
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="290px" alt="Cyber Cat Robot (Lead)" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="190px" alt="Cyber Cat Robot (Partner)" />
-</p>
-
-<!-- Matching Vector Developer Terminal Card -->
-<p align="center">
-  <img src="about_card.svg" width="100%" alt="Developer Profile" />
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="33%" alt="Cyber Cat Robot" />
+  &nbsp;&nbsp;
+  <img src="developer_profile.svg" width="62%" alt="Developer JSON Profile" />
 </p>
 
 ---
