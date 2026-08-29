@@ -72,13 +72,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🐍 GitHub Contribution Snake Game
 
-| Project | Highlights | Tech Stack |
-| :--- | :--- | :--- |
-| **[📈 Stock Price Forecasting RNN](https://github.com/Aditthan-07/stock-price-forecasting-rnn)** | End-to-end PyTorch sequential deep learning engine with 60-day sliding-window forecasting, strict leakage-free scaling & interactive dashboard. | `PyTorch` `Python` `Pandas` `Streamlit` |
-| **[🤖 Autonomous Agentic AI Framework](https://github.com/Aditthan-07)** | Multi-agent reasoning engine for task orchestration, quantitative modeling, and dynamic tool-calling workflows. | `Python` `FastAPI` `LangChain` |
-| **[👁️ Real-Time Computer Vision Pipeline](https://github.com/Aditthan-07)** | High-throughput deep learning pipeline for real-time feature extraction, spatial tracking, and object classification. | `PyTorch` `OpenCV` `NumPy` |
+<p align="center">
+  <img src="github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
