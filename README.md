@@ -2,14 +2,11 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
-<!-- Cat Robot Hero Animation -->
+<!-- Hero Section: Big Cat Robot on Left + Developer JSON Terminal on Right -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="240px" alt="Cat Robot" />
-</p>
-
-<!-- Matching Vector Developer Terminal Card -->
-<p align="center">
-  <img src="about_card.svg" width="100%" alt="Developer Profile" />
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="33%" alt="Cyber Cat Robot" />
+  &nbsp;&nbsp;
+  <img src="developer_profile.svg" width="62%" alt="Developer JSON Profile" />
 </p>
 
 ---
