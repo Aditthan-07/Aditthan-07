@@ -1,45 +1,22 @@
-<!-- Dynamic Waving Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00599c,100:38bdf8&height=220&section=header&text=Aditthan%20J%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20ML%20Student%20%7C%20Aspiring%20ML%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Header Banner" />
+# 👋 Hi, I'm Aditthan J K
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&width=620&lines=AI+%26+ML+Specialization;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
 </p>
 
-<!-- Animated Typing Subheader -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Real-Time+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing SVG" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aditthan-07&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-<!-- About Me Hero Section -->
-<table> 
-  <tr>
-    <td width="38%" align="center">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="260px" alt="Coding GIF" />
-      </p>
-    </td>
-    <td width="62%">
-      <h2>👋 I am Aditthan J K!</h2>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=Aditthan-07&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
-      </p>
-      
-  - 🎓 **Pre-Final Year Undergrad** specializing in **Artificial Intelligence & Machine Learning**.
-  - 🔬 Passionate about **Deep Learning**, **Time-Series Forecasting**, **Computer Vision**, and **Data Systems**.
-  - 🌱 Currently exploring **Agentic AI**, **Autonomous Multi-Agent Frameworks**, and **Quant Finance Modeling**.
-  - 💼 *Philosophy*: **Built for Engineering, Wired for Business.**
-  - 📫 Reach me at: **[aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)**
-    </td>
-  </tr>
-</table>
+## 🚀 About Me
 
----
-
-## 🌐 3D Contribution & Profile Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditthan-07&theme=tokyonight" width="100%" alt="3D Profile Summary Card" />
-</p>
+- 🎓 **Pre-Final Year Undergrad** specializing in **Artificial Intelligence & Machine Learning**.
+- 🔬 Passionate about **Deep Learning**, **Time-Series Forecasting**, **Computer Vision**, and **Data Systems**.
+- 🌱 Currently exploring **Agentic AI**, **Autonomous Multi-Agent Frameworks**, and **Quant Finance Modeling**.
+- 💼 *Philosophy*: **Built for Engineering, Wired for Business.**
+- 📫 Reach me at: **[aditthanjk06@gmail.com](mailto:aditthanjk06@gmail.com)**
 
 ---
 
@@ -82,8 +59,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -100,24 +75,28 @@
 
 ---
 
-## 🎯 Core Focus Areas
-
-- 🤖 **Artificial Intelligence & Machine Learning**: Supervised/Unsupervised Learning, Recurrent Architectures, Transformer Models.
-- 📈 **Time-Series & Quantitative Systems**: Sequential modeling, sliding window forecasting, strict backtesting protocols.
-- 👁️ **Computer Vision**: Real-time object recognition, image processing, edge model inference.
-- ⚡ **Data & Backend Engineering**: Scalable API pipelines, robust data ingestion, and cloud deployment.
-
----
-
-## ✍️ Daily Dev Inspiration
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditthan-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Aditthan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditthan-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditthan-07&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📬 Connect & Collaborate
+## ✍️ Dev Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+## 📬 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/aditthan-j-k-238767324" target="_blank">
