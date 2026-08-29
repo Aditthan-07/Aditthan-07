@@ -72,10 +72,9 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Game
-
+<!-- Simple Business + Tech Philosophy Quote Card -->
 <p align="center">
-  <img src="github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+  <img src="quote_card.svg" width="100%" alt="Engineering builds the product. Business scales the impact." />
 </p>
 
 ---
