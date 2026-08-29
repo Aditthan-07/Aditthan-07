@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Aditthan J K
+<p align="center">
+  <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
+</p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=38BDF8&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
 </p>
 
 ---
