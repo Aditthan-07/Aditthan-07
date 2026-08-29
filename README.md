@@ -2,29 +2,17 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=38BDF8&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
-</p>
-
 ---
 
-<!-- Hero Section: Cat Robot + Linux Terminal About Me -->
+<!-- Hero Section: Cat Robot + Dynamic Interactive Live Chat -->
 <table> 
   <tr>
-    <td width="36%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="270px" alt="Cat Robot" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="220px" alt="Cat Robot" />
     </td>
-    <td width="64%" valign="middle">
-<pre>
-<code><b>aditthan@arch-linux:~$</b> cat about_me.sh
-
-<b>[+] Education:</b>    Pre-Final Year Undergrad (AI & ML Specialization)
-<b>[+] Focus Areas:</b>  Deep Learning • Computer Vision • Time-Series Forecasting
-<b>[+] Endeavors:</b>    Agentic AI Frameworks • Quant Modeling • Data Systems
-<b>[+] Philosophy:</b>   "Built for Engineering, Wired for Business."
-<b>[+] Contact:</b>      aditthanjk06@gmail.com
-</code>
-</pre>
+    <td width="70%" valign="middle" style="padding-left: 20px;">
+      <p><strong>🤖 Aditthan.ai Live Console</strong></p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1200&color=38BDF8&width=580&lines=💬+Education:+Pre-Final+Year+Undergrad+(AI+%26+ML);💬+Focus+Areas:+Deep+Learning+%E2%80%A2+Vision+%E2%80%A2+Time-Series;💬+Endeavors:+Agentic+AI+%E2%80%A2+Quant+Modeling;💬+Philosophy:+%22Built+for+Engineering%2C+Wired+for+Business%22;💬+Contact:+aditthanjk06%40gmail.com" alt="Live Chat Animation" />
     </td>
   </tr>
 </table>
