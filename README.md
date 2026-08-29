@@ -2,13 +2,11 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
-<!-- Cyber Octocat Mascot Trio: Left & Right Companions with Bigger Center Cat Robot -->
+<!-- Cyber Duo: Larger Cat Robot First, Smaller Partner Next -->
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="180px" alt="Cyber Octocat Left" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="280px" alt="Cyber Cat Robot Center" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://octodex.github.com/images/labtocat.png" width="180px" alt="AI Lab Octocat Right" />
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="290px" alt="Cyber Cat Robot (Lead)" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="190px" alt="Cyber Cat Robot (Partner)" />
 </p>
 
 <!-- Matching Vector Developer Terminal Card -->
