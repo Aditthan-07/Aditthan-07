@@ -2,11 +2,13 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
-<!-- Cyber Audio Visualizer Hero Stage -->
+<!-- Cyber Octocat Mascot Trio: Left & Right Companions with Bigger Center Cat Robot -->
 <p align="center">
-  <img src="equalizer_left.svg" width="31%" alt="Equalizer Left" />
-  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="32%" alt="Cyber Cat Robot" />
-  <img src="equalizer_right.svg" width="31%" alt="Equalizer Right" />
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="180px" alt="Cyber Octocat Left" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="280px" alt="Cyber Cat Robot Center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://octodex.github.com/images/labtocat.png" width="180px" alt="AI Lab Octocat Right" />
 </p>
 
 <!-- Matching Vector Developer Terminal Card -->
