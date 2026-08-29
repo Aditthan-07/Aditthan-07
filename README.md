@@ -72,10 +72,10 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Game
+## 📈 Activity & Contribution Wave
 
 <p align="center">
-  <img src="github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+  <img src="activity_wave.svg" width="100%" alt="GitHub Activity Wave" />
 </p>
 
 ---
