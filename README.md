@@ -4,15 +4,31 @@
 
 ---
 
-<!-- Hero Section: Cat Robot + Dynamic Interactive Live Chat -->
+<!-- Hero Section: Cat Robot + Option 3 Developer CLI Profile -->
 <table> 
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="220px" alt="Cat Robot" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="300px" alt="Cat Robot" />
     </td>
-    <td width="70%" valign="middle" style="padding-left: 20px;">
-      <p><strong>🤖 Aditthan.ai Live Console</strong></p>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1200&color=38BDF8&width=580&lines=💬+Education:+Pre-Final+Year+Undergrad+(AI+%26+ML);💬+Focus+Areas:+Deep+Learning+%E2%80%A2+Vision+%E2%80%A2+Time-Series;💬+Endeavors:+Agentic+AI+%E2%80%A2+Quant+Modeling;💬+Philosophy:+%22Built+for+Engineering%2C+Wired+for+Business%22;💬+Contact:+aditthanjk06%40gmail.com" alt="Live Chat Animation" />
+    <td width="62%" valign="middle" style="padding-left: 15px;">
+<pre>
+<code>{
+  "developer": "Aditthan J K",
+  "status": "Pre-Final Year Undergrad (AI &amp; ML)",
+  "focus_areas": [
+    "Deep Learning",
+    "Computer Vision",
+    "Time-Series Forecasting"
+  ],
+  "current_endeavors": [
+    "Agentic AI Frameworks",
+    "Quantitative Modeling",
+    "Scalable Data Systems"
+  ],
+  "philosophy": "Built for Engineering, Wired for Business.",
+  "contact": "aditthanjeganathan067@gmail.com"
+}</code>
+</pre>
     </td>
   </tr>
 </table>
@@ -86,7 +102,7 @@
   <a href="https://linkedin.com/in/aditthan-j-k-238767324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aditthanjk06@gmail.com">
+  <a href="mailto:aditthanjeganathan067@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Aditthan-07" target="_blank">
