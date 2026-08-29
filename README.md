@@ -1,26 +1,28 @@
 # 👋 Hi, I'm Aditthan J K
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
 </p>
 
 ---
 
-<!-- Hero Section: Cat Robot + Professional About Me -->
+<!-- Hero Section: Cat Robot + Linux Terminal About Me -->
 <table> 
   <tr>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="320px" alt="Cat Robot" />
+    <td width="36%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="270px" alt="Cat Robot" />
     </td>
-    <td width="58%" valign="top" style="padding-left: 20px;">
-      <h2>About Me</h2>
-      <ul style="line-height: 1.8; font-size: 1rem;">
-        <li><strong>Education:</strong> Pre-Final Year Undergrad specializing in <strong>Artificial Intelligence & Machine Learning</strong>.</li>
-        <li><strong>Focus Areas:</strong> <strong>Deep Learning</strong>, <strong>Time-Series Forecasting</strong>, <strong>Computer Vision</strong>, and <strong>Scalable Data Systems</strong>.</li>
-        <li><strong>Current Endeavors:</strong> Developing <strong>Agentic AI frameworks</strong>, neural network architectures, and quantitative models.</li>
-        <li><strong>Core Philosophy:</strong> <em>Built for Engineering, Wired for Business.</em></li>
-        <li><strong>Contact:</strong> <a href="mailto:aditthanjk06@gmail.com">aditthanjk06@gmail.com</a></li>
-      </ul>
+    <td width="64%" valign="middle">
+<pre>
+<code><b>aditthan@arch-linux:~$</b> cat about_me.sh
+
+<b>[+] Education:</b>    Pre-Final Year Undergrad (AI & ML Specialization)
+<b>[+] Focus Areas:</b>  Deep Learning • Computer Vision • Time-Series Forecasting
+<b>[+] Endeavors:</b>    Agentic AI Frameworks • Quant Modeling • Data Systems
+<b>[+] Philosophy:</b>   "Built for Engineering, Wired for Business."
+<b>[+] Contact:</b>      aditthanjk06@gmail.com
+</code>
+</pre>
     </td>
   </tr>
 </table>
