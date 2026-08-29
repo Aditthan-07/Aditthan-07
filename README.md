@@ -2,9 +2,11 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
-<!-- Cat Robot Hero Animation -->
+<!-- Cyber Audio Visualizer Hero Stage -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="240px" alt="Cat Robot" />
+  <img src="equalizer_left.svg" width="31%" alt="Equalizer Left" />
+  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="32%" alt="Cyber Cat Robot" />
+  <img src="equalizer_right.svg" width="31%" alt="Equalizer Right" />
 </p>
 
 <!-- Matching Vector Developer Terminal Card -->
