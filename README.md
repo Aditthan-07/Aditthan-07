@@ -72,6 +72,16 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **[📈 Stock Price Forecasting RNN](https://github.com/Aditthan-07/stock-price-forecasting-rnn)** | End-to-end PyTorch sequential deep learning engine with 60-day sliding-window forecasting, strict leakage-free scaling & interactive dashboard. | `PyTorch` `Python` `Pandas` `Streamlit` |
+| **[🤖 Autonomous Agentic AI Framework](https://github.com/Aditthan-07)** | Multi-agent reasoning engine for task orchestration, quantitative modeling, and dynamic tool-calling workflows. | `Python` `FastAPI` `LangChain` |
+| **[👁️ Real-Time Computer Vision Pipeline](https://github.com/Aditthan-07)** | High-throughput deep learning pipeline for real-time feature extraction, spatial tracking, and object classification. | `PyTorch` `OpenCV` `NumPy` |
+
+---
+
 ## 📬 Connect With Me
 
 <p align="left">
