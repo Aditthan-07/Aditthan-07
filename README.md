@@ -72,10 +72,9 @@
 
 ---
 
-## 📈 Activity & Contribution Wave
-
+<!-- Simple Business + Tech Philosophy Quote Card -->
 <p align="center">
-  <img src="activity_wave.svg" width="100%" alt="GitHub Activity Wave" />
+  <img src="quote_card.svg" width="100%" alt="Engineering builds the product. Business scales the impact." />
 </p>
 
 ---
