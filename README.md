@@ -2,28 +2,32 @@
   <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=38BDF8&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Time-Series+Forecasting;Computer+Vision+%26+Data+Systems;Built+for+Engineering%2C+Wired+for+Business" alt="Typing Tagline" />
-</p>
-
 ---
 
-<!-- Hero Section: Cat Robot + Linux Terminal About Me -->
+<!-- Hero Section: Cat Robot + Option 3 Developer CLI Profile -->
 <table> 
   <tr>
-    <td width="36%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="270px" alt="Cat Robot" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="300px" alt="Cat Robot" />
     </td>
-    <td width="64%" valign="middle">
+    <td width="62%" valign="middle" style="padding-left: 15px;">
 <pre>
-<code><b>aditthan@arch-linux:~$</b> cat about_me.sh
-
-<b>[+] Education:</b>    Pre-Final Year Undergrad (AI & ML Specialization)
-<b>[+] Focus Areas:</b>  Deep Learning • Computer Vision • Time-Series Forecasting
-<b>[+] Endeavors:</b>    Agentic AI Frameworks • Quant Modeling • Data Systems
-<b>[+] Philosophy:</b>   "Built for Engineering, Wired for Business."
-<b>[+] Contact:</b>      aditthanjk06@gmail.com
-</code>
+<code>{
+  "developer": "Aditthan J K",
+  "status": "Pre-Final Year Undergrad (AI &amp; ML)",
+  "focus_areas": [
+    "Deep Learning",
+    "Computer Vision",
+    "Time-Series Forecasting"
+  ],
+  "current_endeavors": [
+    "Agentic AI Frameworks",
+    "Quantitative Modeling",
+    "Scalable Data Systems"
+  ],
+  "philosophy": "Built for Engineering, Wired for Business.",
+  "contact": "aditthanjeganathan067@gmail.com"
+}</code>
 </pre>
     </td>
   </tr>
@@ -98,7 +102,7 @@
   <a href="https://linkedin.com/in/aditthan-j-k-238767324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aditthanjk06@gmail.com">
+  <a href="mailto:aditthanjeganathan067@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Aditthan-07" target="_blank">
