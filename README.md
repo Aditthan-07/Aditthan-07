@@ -72,6 +72,24 @@
 
 ---
 
+## 📈 Activity & Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditthan-07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💡 Engineering Philosophy & Value
+
+<p align="left">
+  <blockquote>
+    <strong>"Bridging the gap between deep mathematical ML modeling and production-grade software engineering — built for precision, performance, and business impact."</strong>
+  </blockquote>
+</p>
+
+---
+
 ## 📬 Connect With Me
 
 <p align="left">
