@@ -14,7 +14,7 @@
 ## 🛠️ Technology Stack & Tooling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgres,react,js,docker,linux,git,github,vscode,jupyter,colab" alt="Tech Stack 3D Icons" />
+  <img src="tech_stack.svg" alt="Tech Stack 3D Icons" />
 </p>
 
 <br/>
