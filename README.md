@@ -9,7 +9,10 @@
 
 ---
 
-
+<!-- Simple Business + Tech Philosophy Quote Card -->
+<p align="center">
+  <img src="quote_card.svg" width="100%" alt="Engineering builds the product. Business scales the impact." />
+</p>
 
 ---
 ## 📬 Connect With Me
