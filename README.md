@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="header_banner.svg" width="100%" alt="Hi, I'm Aditthan J K" />
-</p>
+
 
 <!-- Hero Section: Centered Cyber Cat Robot -->
 <p align="center">
